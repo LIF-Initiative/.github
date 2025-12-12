@@ -1,3 +1,7 @@
+# Welcome to the Learner Information Framework (LIF) GitHub
+
+## Hello! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
+
 ## What is LIF? 
 The Learner Information Framework (LIF) is a set of open-source tools and a shared data model that work with your existing systems to find, translate, and package learner information into a consistent format. It allows applications—such as learner wallets, advising tools, or AI agents—to access richer, standardized learner context without requiring custom integrations from every system.
 
